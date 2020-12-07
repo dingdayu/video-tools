@@ -1,5 +1,5 @@
 {
-    "name": "smalls/video-tools",
+    "name": "dingdayu/video-tools",
     "description": "短视频的拓展包，集成各大短视频的去水印功能",
     "type": "library",
     "keywords": [
@@ -11,6 +11,10 @@
         {
             "name": "Smalls",
             "email": "smalls0098@gmail.com"
+        },
+        {
+            "name": "dingdayu",
+            "email": "614422099@qq.com"
         }
     ],
     "require": {
@@ -20,7 +24,7 @@
         "ext-SimpleXML": "*",
         "ext-mbstring": "*",
         "ext-libxml": "*",
-        "guzzlehttp/guzzle": "^6.5"
+        "guzzlehttp/guzzle": "^7.5"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.2"
